@@ -437,47 +437,47 @@
     <name>m8r::AddLibraryDialog</name>
     <message>
         <location filename="../../../src/qt/dialogs/add_library_dialog.cpp" line="29"/>
-        <source>Choose and find library source:</source>
+        <source>查找并选择库：</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/add_library_dialog.cpp" line="30"/>
-        <source>Directory</source>
+        <source>目录</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/add_library_dialog.cpp" line="32"/>
-        <source>Library name:</source>
+        <source>库名称：</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/add_library_dialog.cpp" line="34"/>
-        <source>Library source path:</source>
+        <source>库路径：</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/add_library_dialog.cpp" line="37"/>
-        <source>index PDF</source>
+        <source>索引PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/add_library_dialog.cpp" line="42"/>
-        <source>&amp;Create Library and Index Documents</source>
+        <source>&amp;创建库和索引文档</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/add_library_dialog.cpp" line="44"/>
-        <source>&amp;Cancel</source>
+        <source>&amp;取消</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/add_library_dialog.cpp" line="73"/>
-        <source>Add Document Library</source>
+        <source>添加文档库</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/add_library_dialog.cpp" line="93"/>
-        <source>Choose Directory</source>
+        <source>选择目录：</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -486,7 +486,7 @@
     <message>
         <location filename="../../../src/qt/assoc_leaderboard_model.cpp" line="40"/>
         <location filename="../../../src/qt/assoc_leaderboard_model.cpp" line="50"/>
-        <source>Associations</source>
+        <source>关联</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <location filename="../../../src/qt/assoc_leaderboard_model.cpp" line="50"/>
-        <source> for &apos;</source>
+        <source>用于&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -510,7 +510,7 @@
     <name>m8r::AssocLeaderboardPresenter</name>
     <message>
         <location filename="../../../src/qt/assoc_leaderboard_presenter.cpp" line="85"/>
-        <source>Associations</source>
+        <source>关联</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -518,17 +518,17 @@
     <name>m8r::CliAndBreadcrumbsPresenter</name>
     <message>
         <location filename="../../../src/qt/cli_n_breadcrumbs_presenter.cpp" line="118"/>
-        <source>Notebook </source>
+        <source>笔记本</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/cli_n_breadcrumbs_presenter.cpp" line="120"/>
-        <source>Notebook not found: </source>
+        <source>找不到笔记本：</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/cli_n_breadcrumbs_presenter.cpp" line="129"/>
-        <source>No command!</source>
+        <source>没有命令！</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -536,17 +536,17 @@
     <name>m8r::ConfigurationDialog</name>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="37"/>
-        <source>Application</source>
+        <source>应用程序</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="38"/>
-        <source>Viewer</source>
+        <source>预览器</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="39"/>
-        <source>Editor</source>
+        <source>编辑器</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -556,17 +556,17 @@
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="41"/>
-        <source>Navigator</source>
+        <source>导航</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="42"/>
-        <source>Mind</source>
+        <source>思想</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="57"/>
-        <source>Adapt</source>
+        <source>适配</source>
         <translatorcomment>Preferences</translatorcomment>
         <translation type="unfinished">Preferences</translation>
     </message>
@@ -575,37 +575,37 @@
     <name>m8r::ConfigurationDialog::AppTab</name>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="98"/>
-        <source>UI theme (&lt;font color=&apos;#ff0000&apos;&gt;requires restart&lt;/font&gt;)</source>
+        <source>界面主题(&lt;font color=&apos;#ff0000&apos;&gt;requires restart&lt;/font&gt;)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="114"/>
-        <source>Show the following view on application start</source>
+        <source>显示如下应用启动界面</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="128"/>
-        <source>show toolbar</source>
+        <source>显示工具栏</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="130"/>
-        <source>I don&apos;t need buttons - I know all keyboard shortcuts!</source>
+        <source>我不需要按钮——我知道所有键盘快捷键！</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="131"/>
-        <source>nerd menu (requires restart)</source>
+        <source>书菜单（需要重启）</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="137"/>
-        <source>Startup</source>
+        <source>启动</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="146"/>
-        <source>Appearance</source>
+        <source>外观</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
