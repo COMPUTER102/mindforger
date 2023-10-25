@@ -613,47 +613,47 @@
     <name>m8r::ConfigurationDialog::EditorTab</name>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="359"/>
-        <source>Editor key binding</source>
+        <source>编辑器快捷键</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="364"/>
-        <source>Editor font</source>
+        <source>编辑器字体</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="378"/>
-        <source>live spell check</source>
+            <source>实时拼写检查</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="369"/>
-        <source>Spell check dictionaries &lt;a href=&apos;https://github.com/dvorka/mindforger-repository/blob/master/memory/mindforger/installation.md#spell-check-&apos;&gt;configuration documentation&lt;/a&gt;</source>
+        <source>拼写检查词典&lt;a href=&apos;https://github.com/dvorka/mindforger-repository/blob/master/memory/mindforger/installation.md#spell-check-&apos;&gt;configuration documentation&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="394"/>
-        <source>TABs as SPACEs</source>
+        <source>将TAB转换为空格</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="395"/>
-        <source>autosave Note on editor close</source>
+        <source>在编辑器关闭时自动保存笔记</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="397"/>
-        <source>TAB width</source>
+        <source>TAB转换的空格数</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="402"/>
-        <source>External editor command</source>
+        <source>外部扩展编辑器指令</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="421"/>
-        <source>Editor</source>
+        <source>编辑器</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -661,37 +661,37 @@
     <name>m8r::ConfigurationDialog::MarkdownTab</name>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="527"/>
-        <source>syntax highlighting</source>
+        <source>语法高亮</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="531"/>
-        <source>autocomplete text</source>
+        <source>自动填充文本</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="535"/>
-        <source>autocomplete lists, blocks and {([`_ characters</source>
+    <source>自动完成列表、块和{([`_ characters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="540"/>
-        <source>SPACE-based # in section escaping (HTML otherwise)</source>
+        <source>段落转义中以空格为基础的#号（HTML除外）</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="548"/>
-        <source>Rendering</source>
+        <source>重现</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="554"/>
-        <source>Autocompletion</source>
+        <source>自动填充</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qt/dialogs/configuration_dialog.cpp" line="559"/>
-        <source>Escaping</source>
+        <source>转义</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
